@@ -11,8 +11,8 @@
 
 ![](src/s4.png)
 ## 使用
-> npm install
+> npm install 安装资源包
 
 
-> npm run dev
+> npm run dev  运行
 
