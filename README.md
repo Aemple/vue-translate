@@ -1,6 +1,6 @@
 # my-project
 
-> translate for vue
+> translate for vue  一个简单的翻译网站 作为学习路上的以此练习
 
 ## 效果图
 ![](src/s1.png)
